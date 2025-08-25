@@ -8,12 +8,16 @@ This project is part of the **Ironhack Data Science & Machine Learning Bootcamp*
 The primary objective is to **__analyze housing prices and identify the key factors that influence them__**, with a special focus on properties priced above $650,000. Beyond exploratory analysis, we also apply machine learning models to predict housing prices more accurately.
 
 ## 📂 Repository Structure
+## 📂 Repository Structure
+
+```bash
 .
 ├── Mini_Project.ipynb                          # Jupyter notebook with full analysis and code
 ├── data/                                       # Raw and processed datasets
 ├── images/                                     # Visualizations exported from notebook
 ├── IronKeggle - Project Presentation.pdf       # Project presentation
 └── README.md                                   # Project documentation
+```
 
 
 ## 🎯 Objectives
